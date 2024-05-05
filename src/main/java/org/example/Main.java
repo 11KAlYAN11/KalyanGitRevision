@@ -12,9 +12,7 @@ public class Main {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
-            //done some changes
-            //bugs fixed comments added humm
-            //Made some changes to see in global config list huff made some changes
+            System.out.println("There is a way to create a Merge conflicts..g");
         }
     }
 }
