@@ -15,8 +15,6 @@ public class Main {
 
             System.out.println("merge conflit added smtg..!");
 
-            System.out.println("Button added..!");
-
         }
     }
 }
