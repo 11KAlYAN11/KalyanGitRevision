@@ -14,7 +14,7 @@ public class Main {
             System.out.println("i = " + i);
             //done some changes
             //bugs fixed comments added humm
-            //Made some changes to see in global config list
+            //Made some changes to see in global config list huff made some changes
         }
     }
 }
