@@ -16,5 +16,8 @@ public class Main {
             System.out.println("merge conflit added smtg..!");
 
         }
+        for (int i=0; i<=10; ++i) {
+            System.out.println("Asam");
+        }
     }
 }
