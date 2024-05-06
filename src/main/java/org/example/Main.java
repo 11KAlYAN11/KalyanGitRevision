@@ -12,6 +12,14 @@ public class Main {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
+
+
+            System.out.println("merge conflit added smtg..!");
+
+        }
+        for (int i=0; i<=10; ++i) {
+            System.out.println("Asam");
+
             System.out.println("Button added..!");
             System.out.println("Added button..!");
             System.out.println("Added button..!");
