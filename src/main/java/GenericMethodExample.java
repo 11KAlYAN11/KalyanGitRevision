@@ -24,5 +24,6 @@ public class GenericMethodExample {
 
         List<String> strList = List.of("apple", "banana", "grape", "orange", "watermelon");
         System.out.println("Max string: " + findMax(strList));
+        System.out.println("Added smtg to branch main1");
     }
 }
