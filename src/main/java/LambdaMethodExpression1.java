@@ -25,6 +25,7 @@ public class LambdaMethodExpression1 {
         List<String> longNames = filterStrings(names, str -> str.length() > 3);
 
         System.out.println("Names with more than 3 characters: " + longNames);
+        //SLN
     }
     
 }
