@@ -14,7 +14,7 @@ public class LambdaMethodExpression1 {
     }
 
     public static void main(String[] args) {
-        List<String> names = List.of("Alice", "Bob", "Charlie", "David", "Edward");
+        List<String> names = List.of("Alice", "Bob", "Charlie", "David", "Edward", "Kalyan");
 
         // Using a lambda expression to filter names that start with the letter 'A'
         List<String> filteredNames = filterStrings(names, str -> str.startsWith("A"));
